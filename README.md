@@ -21,9 +21,9 @@ Home to [**Brillion Smart Wallet**](https://brillion.finance/).
 
 ## About us
 
-Welcome to the Brillion GitHub organization, the developer hub for everything Brillion.
+Welcome to the **Brillion GitHub organization**, the developer hub for everything **Brillion**.
 
-At Brillion, we're simplifying decentralized space for everyone. Our goal is to connect billions, regardless of their tech know-how or their wealth. We believe in a world where web3 is not just for the tech-savvy but for all. With user-friendly tools and clear guidance, we're making the future of finance accessible and inclusive. Dive into the world of decentralized finance with Brillion, where everyone belongs. Let’s bridge billions together.
+At **Brillion**, we're simplifying decentralized space for everyone. Our goal is to connect billions, regardless of their tech know-how or their wealth. We believe in a world where web3 is not just for the tech-savvy but for all. With user-friendly tools and clear guidance, we're making the future of finance accessible and inclusive. Dive into the world of decentralized finance with **Brillion**, where everyone belongs. Let’s bridge billions together.
 
 - Learn more about [Brillion Smart Wallet](https://docs.brillion.finance/)
 
